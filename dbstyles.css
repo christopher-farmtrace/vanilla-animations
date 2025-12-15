@@ -563,12 +563,10 @@ footer {
 @keyframes ft-dropdown {
     from {
         opacity: 0.4;
-        max-height: 0;
         transform: translateY(-6px);
     }
     to {
         opacity: 1;
-        max-height: 500px;
         transform: translateY(0);
     }
 }
